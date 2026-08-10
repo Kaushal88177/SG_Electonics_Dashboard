@@ -3,7 +3,7 @@
 An interactive Power BI Sales Dashboard for **SG Electronics (SG Collections)** to track sales, profit, and customer performance across countries, categories, and brands.
 
 ### 🔗 Live Dashboard Preview
-
+Click here for PDF - https://github.com/Kaushal88177/SG_Electonics_Dashboard/blob/8e4794570bfb608a57e71575c6a786c1fd5decf1/SG_Electronics_Dashboard.pdf
 ---
 
 ### 📌 Overview
